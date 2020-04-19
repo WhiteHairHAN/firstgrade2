@@ -1,0 +1,6 @@
+﻿  2.c
+c:\users\한재윤\documents\visual studio 2015\projects\10 05 4주차 약수\10 05 4주차 약수\2.c(13): warning C4013: 'print_divisor'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\한재윤\documents\visual studio 2015\projects\10 05 4주차 약수\10 05 4주차 약수\2.c(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\한재윤\documents\visual studio 2015\projects\10 05 4주차 약수\10 05 4주차 약수\2.c(36): warning C4716: 'print_divisor': 값을 반환해야 합니다.
+  10 05 4주차 약수.vcxproj -> c:\users\한재윤\documents\visual studio 2015\Projects\10 05 4주차 약수\Debug\10 05 4주차 약수.exe

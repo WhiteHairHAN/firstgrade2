@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6장 난수, 배열 응용 2.로또 생성기", "6장 난수, 배열 응용 2.로또 생성기\6장 난수, 배열 응용 2.로또 생성기.vcxproj", "{22129B55-FBD2-4B21-86FA-07C162E0CF78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22129B55-FBD2-4B21-86FA-07C162E0CF78}.Debug|x64.ActiveCfg = Debug|x64
+		{22129B55-FBD2-4B21-86FA-07C162E0CF78}.Debug|x64.Build.0 = Debug|x64
+		{22129B55-FBD2-4B21-86FA-07C162E0CF78}.Debug|x86.ActiveCfg = Debug|Win32
+		{22129B55-FBD2-4B21-86FA-07C162E0CF78}.Debug|x86.Build.0 = Debug|Win32
+		{22129B55-FBD2-4B21-86FA-07C162E0CF78}.Release|x64.ActiveCfg = Release|x64
+		{22129B55-FBD2-4B21-86FA-07C162E0CF78}.Release|x64.Build.0 = Release|x64
+		{22129B55-FBD2-4B21-86FA-07C162E0CF78}.Release|x86.ActiveCfg = Release|Win32
+		{22129B55-FBD2-4B21-86FA-07C162E0CF78}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

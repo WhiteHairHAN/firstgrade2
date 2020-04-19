@@ -1,0 +1,6 @@
+﻿  1.c
+c:\users\한재윤\documents\visual studio 2015\projects\9장 문자열처리 1. 영문자세기 문자열읽기\9장 문자열처리 1. 영문자세기 문자열읽기\1.c(16): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\한재윤\documents\visual studio 2015\projects\9장 문자열처리 1. 영문자세기 문자열읽기\9장 문자열처리 1. 영문자세기 문자열읽기\1.c(9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\한재윤\documents\visual studio 2015\projects\9장 문자열처리 1. 영문자세기 문자열읽기\9장 문자열처리 1. 영문자세기 문자열읽기\1.c(7): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+  9장 문자열처리 1. 영문자세기 문자열읽기.vcxproj -> c:\users\한재윤\documents\visual studio 2015\Projects\9장 문자열처리 1. 영문자세기 문자열읽기\Debug\9장 문자열처리 1. 영문자세기 문자열읽기.exe

@@ -1,0 +1,3 @@
+﻿  student1.c
+c:\users\한재윤\documents\visual studio 2015\projects\p.523 예제1\p.523 예제1\student1.c(14): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  p.523 예제1.vcxproj -> c:\users\한재윤\documents\visual studio 2015\Projects\p.523 예제1\Debug\p.523 예제1.exe

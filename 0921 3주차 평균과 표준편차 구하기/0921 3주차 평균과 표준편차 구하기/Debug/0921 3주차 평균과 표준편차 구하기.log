@@ -1,0 +1,6 @@
+﻿  1.c
+c:\users\한재윤\documents\visual studio 2015\projects\0921 3주차 평균과 표준편차 구하기\0921 3주차 평균과 표준편차 구하기\1.c(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\한재윤\documents\visual studio 2015\projects\0921 3주차 평균과 표준편차 구하기\0921 3주차 평균과 표준편차 구하기\1.c(36): warning C4101: 'mean' :참조되지 않은 지역 변수입니다.
+c:\users\한재윤\documents\visual studio 2015\projects\0921 3주차 평균과 표준편차 구하기\0921 3주차 평균과 표준편차 구하기\1.c(36): warning C4101: 'std' :참조되지 않은 지역 변수입니다.
+  0921 3주차 평균과 표준편차 구하기.vcxproj -> c:\users\한재윤\documents\visual studio 2015\Projects\0921 3주차 평균과 표준편차 구하기\Debug\0921 3주차 평균과 표준편차 구하기.exe

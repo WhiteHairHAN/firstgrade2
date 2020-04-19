@@ -1,0 +1,6 @@
+﻿  strtok.c
+c:\users\한재윤\documents\visual studio 2015\projects\p.495\p.495\strtok.c(11): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 'strtok' 선언을 참조하십시오.
+c:\users\한재윤\documents\visual studio 2015\projects\p.495\p.495\strtok.c(15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 'strtok' 선언을 참조하십시오.
+  p.495.vcxproj -> c:\users\한재윤\documents\visual studio 2015\Projects\p.495\Debug\p.495.exe

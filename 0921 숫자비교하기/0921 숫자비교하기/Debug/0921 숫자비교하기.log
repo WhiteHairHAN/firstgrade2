@@ -1,0 +1,8 @@
+﻿  number.c
+c:\users\한재윤\documents\visual studio 2015\projects\0921 숫자비교하기\0921 숫자비교하기\number.c(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\한재윤\documents\visual studio 2015\projects\0921 숫자비교하기\0921 숫자비교하기\number.c(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\한재윤\documents\visual studio 2015\projects\0921 숫자비교하기\0921 숫자비교하기\number.c(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  0921 숫자비교하기.vcxproj -> c:\users\한재윤\documents\visual studio 2015\Projects\0921 숫자비교하기\Debug\0921 숫자비교하기.exe

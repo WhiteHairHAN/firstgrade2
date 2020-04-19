@@ -1,0 +1,6 @@
+﻿  strcmp.c
+c:\users\한재윤\documents\visual studio 2015\projects\p.491\p.491\strcmp.c(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\한재윤\documents\visual studio 2015\projects\p.491\p.491\strcmp.c(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  p.491.vcxproj -> c:\users\한재윤\documents\visual studio 2015\Projects\p.491\Debug\p.491.exe

@@ -1,0 +1,4 @@
+﻿  string3.c
+c:\users\한재윤\documents\visual studio 2015\projects\p.473 예제3\p.473 예제3\string3.c(9): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\한재윤\documents\visual studio 2015\projects\p.473 예제3\p.473 예제3\string3.c(11): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  p.473 예제3.vcxproj -> c:\users\한재윤\documents\visual studio 2015\Projects\p.473 예제3\Debug\p.473 예제3.exe

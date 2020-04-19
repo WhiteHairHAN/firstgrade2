@@ -1,0 +1,6 @@
+﻿  3.c
+c:\users\한재윤\documents\visual studio 2015\projects\6장 난수, 배열 응용 3.빙고게임\6장 난수, 배열 응용 3.빙고게임\3.c(22): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\한재윤\documents\visual studio 2015\projects\6장 난수, 배열 응용 3.빙고게임\6장 난수, 배열 응용 3.빙고게임\3.c(22): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\한재윤\documents\visual studio 2015\projects\6장 난수, 배열 응용 3.빙고게임\6장 난수, 배열 응용 3.빙고게임\3.c(70): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\한재윤\documents\visual studio 2015\projects\6장 난수, 배열 응용 3.빙고게임\6장 난수, 배열 응용 3.빙고게임\3.c(76): warning C4700: 초기화되지 않은 'j' 지역 변수를 사용했습니다.
+  6장 난수, 배열 응용 3.빙고게임.vcxproj -> C:\Users\한재윤\Documents\Visual Studio 2015\Projects\6장 난수, 배열 응용 3.빙고게임\Debug\6장 난수, 배열 응용 3.빙고게임.exe

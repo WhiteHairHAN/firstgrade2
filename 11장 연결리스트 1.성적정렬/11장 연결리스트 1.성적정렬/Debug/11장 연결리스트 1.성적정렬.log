@@ -1,0 +1,13 @@
+﻿  1.c
+c:\users\한재윤\documents\visual studio 2015\projects\11장 연결리스트 1.성적정렬\11장 연결리스트 1.성적정렬\1.c(39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\한재윤\documents\visual studio 2015\projects\11장 연결리스트 1.성적정렬\11장 연결리스트 1.성적정렬\1.c(43): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\한재윤\documents\visual studio 2015\projects\11장 연결리스트 1.성적정렬\11장 연결리스트 1.성적정렬\1.c(45): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\한재윤\documents\visual studio 2015\projects\11장 연결리스트 1.성적정렬\11장 연결리스트 1.성적정렬\1.c(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\한재윤\documents\visual studio 2015\projects\11장 연결리스트 1.성적정렬\11장 연결리스트 1.성적정렬\1.c(58): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\한재윤\documents\visual studio 2015\projects\11장 연결리스트 1.성적정렬\11장 연결리스트 1.성적정렬\1.c(59): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+  11장 연결리스트 1.성적정렬.vcxproj -> c:\users\한재윤\documents\visual studio 2015\Projects\11장 연결리스트 1.성적정렬\Debug\11장 연결리스트 1.성적정렬.exe

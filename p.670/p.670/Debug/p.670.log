@@ -1,0 +1,4 @@
+﻿  binary1.c
+c:\users\한재윤\documents\visual studio 2015\projects\p.670\p.670\binary1.c(8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+  p.670.vcxproj -> c:\users\한재윤\documents\visual studio 2015\Projects\p.670\Debug\p.670.exe

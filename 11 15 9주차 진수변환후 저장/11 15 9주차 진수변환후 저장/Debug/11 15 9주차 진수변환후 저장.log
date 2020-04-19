@@ -1,0 +1,8 @@
+﻿  1.c
+c:\users\한재윤\documents\visual studio 2015\projects\11 15 9주차 진수변환후 저장\11 15 9주차 진수변환후 저장\1.c(17): warning C4047: '함수': 'int'의 간접 참조 수준이 'char [2]'과(와) 다릅니다.
+c:\users\한재윤\documents\visual studio 2015\projects\11 15 9주차 진수변환후 저장\11 15 9주차 진수변환후 저장\1.c(17): warning C4024: 'fputc': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\한재윤\documents\visual studio 2015\projects\11 15 9주차 진수변환후 저장\11 15 9주차 진수변환후 저장\1.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\한재윤\documents\visual studio 2015\projects\11 15 9주차 진수변환후 저장\11 15 9주차 진수변환후 저장\1.c(13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+  11 15 9주차 진수변환후 저장.vcxproj -> c:\users\한재윤\documents\visual studio 2015\Projects\11 15 9주차 진수변환후 저장\Debug\11 15 9주차 진수변환후 저장.exe
